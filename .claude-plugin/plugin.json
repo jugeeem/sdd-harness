@@ -1,0 +1,19 @@
+{
+  "name": "sdd-harness",
+  "displayName": "SDD Harness",
+  "version": "0.1.0",
+  "description": "仕様駆動開発（SDD）の工程エージェント群。要件ヒアリング → 要件分析 → 設計 → DB 設計 → 実装 → テスト → レビュー → セキュリティ診断 → Git（ブランチ / コミット / PR / Issue）を日本語で進める。スタック固有の制約はプロジェクト側 .claude/rules/ に置く前提。",
+  "author": {
+    "name": "jugeeem"
+  },
+  "homepage": "https://github.com/jugeeem/sdd-harness",
+  "repository": "https://github.com/jugeeem/sdd-harness",
+  "license": "MIT",
+  "keywords": [
+    "sdd",
+    "spec-driven-development",
+    "clean-architecture",
+    "workflow",
+    "japanese"
+  ]
+}

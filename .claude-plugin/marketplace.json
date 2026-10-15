@@ -1,0 +1,16 @@
+{
+  "name": "jugeeem",
+  "description": "jugeeem が配布する Claude Code プラグイン",
+  "owner": {
+    "name": "jugeeem"
+  },
+  "plugins": [
+    {
+      "name": "sdd-harness",
+      "source": "./",
+      "description": "仕様駆動開発（SDD）の工程エージェント群（要件 → 設計 → 実装 → テスト → レビュー → Git）",
+      "category": "workflow",
+      "tags": ["sdd", "clean-architecture", "japanese"]
+    }
+  ]
+}
